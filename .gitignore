@@ -1,0 +1,4 @@
+*.pyc
+__pycahe__
+myvenv
+.DS_Store
